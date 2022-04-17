@@ -4,3 +4,15 @@
 [submodule "P2"]
 	path = P2
 	url = git@github.com:mritunjayr/P2.git
+[submodule "PracticeExercise3"]
+	path = PracticeExercise3
+	url = git@github.com:mritunjayr/PracticeExercise3.git
+[submodule "practice-exercise-2"]
+	path = practice-exercise-2
+	url = git@github.com:mritunjayr/practice-exercise-2.git
+[submodule "java-practice-exercise-1"]
+	path = java-practice-exercise-1
+	url = git@github.com:mritunjayr/java-practice-exercise-1.git
+[submodule "projectexercise-4"]
+	path = projectexercise-4
+	url = git@github.com:mritunjayr/projectexercise-4.git
