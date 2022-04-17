@@ -1,0 +1,6 @@
+[submodule "practice-exercise-5"]
+	path = practice-exercise-5
+	url = git@github.com:mritunjayr/practice-exercise-5.git
+[submodule "P2"]
+	path = P2
+	url = git@github.com:mritunjayr/P2.git
